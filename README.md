@@ -9,6 +9,5 @@ I’m over here just goofin', chillin' and learnin'
 
 <details>
   <summary>Academic degrees</summary>
-  None :skull: <br>
   <img src="https://media.tenor.com/9PTGVf4BLwYAAAAC/crying-emoji-dies.gif" display="inline" height="70px">
 </details>
