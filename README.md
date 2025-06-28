@@ -1,13 +1,14 @@
-<div align="center">
-  <h1>🤠 Howdy!</h1>
-I’m over here just goofin', chillin' and learnin'
-</div>
+# 🥏 velox0
 
-## Stats⁉️
+<img width="200px" src="https://cataas.com/cat" align="right">
+
+> What is not started today is never finished tomorrow.
+
+<br />
+
+- [flinch](https://www.github.com/velox0/flinch): `JS` `TS` — A component like front-end library for back-end devs.
+- [libclr](https://www.github.com/velox0/libclr): `C` — C library to format string with ANSI colour codes. Even supports colour math.
+
+### Stats
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Velox0&layout=compact&theme=radical)
-
-<details>
-  <summary>Academic degrees</summary>
-  <img src="https://media.tenor.com/9PTGVf4BLwYAAAAC/crying-emoji-dies.gif" display="inline" height="70px">
-</details>
