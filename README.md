@@ -1,4 +1,4 @@
-# 🥏 velox0
+# 🥏 Велокс0 [velox0]
 
 <img width="200px" src="https://cataas.com/cat" align="right">
 
@@ -14,5 +14,6 @@
 ### Stats
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Velox0&layout=compact&theme=radical)
+
 
 
