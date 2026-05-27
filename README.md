@@ -6,8 +6,9 @@
 
 <br />
 
-- [moonlight-server](https://github.com/velox0/Moonlight-server): `Go` `Python` `Docker` — A glorified proxy for distributed systems.
-- [creeper](https://github.com/velox0/creeper): `Go` — A web crawler also used to automate sitemap generation with priority calculation.
-- [libclr](https://github.com/velox0/libclr): `C` — C library to format string with ANSI colour codes. Even supports colour math.
-- [flinch](https://github.com/velox0/flinch): `JS` `TS` — A component like front-end library for back-end devs.
-- [pocketutils](https://github.com/velox0/pocketutils): `Go` — Small tools in few loc.
+- [moonlight-server](https://github.com/velox0/Moonlight-server): `Go` `Python` `Docker` — A lightweight proxy server for region-based client selection and payload forwarding.
+- [kraken](https://github.com/velox0/kraken): `Go` — Uptime monitoring and automated incident response system with alerts and autofix.
+- [cerver](https://github.com/velox0/cerver): `JS` `C` — Write server routes in JavaScript and compile them into fast standalone C binaries.
+- [creeper](https://github.com/velox0/creeper): `Go` — A fast web crawler for generating sitemaps with priority calculation.
+- [libclr](https://github.com/velox0/libclr): `C` — Lightweight library to format strings with ANSI colours, including colour math.
+- [pocketutils](https://github.com/velox0/pocketutils): `Go` — Small reusable tools and utilities too minor for their own repos.
